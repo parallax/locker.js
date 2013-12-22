@@ -1,5 +1,5 @@
 {
-  "name": "locker",
+  "name": "parallax-locker",
   "version": "1.0.0",
   "description": "A simple but secure lock system",
   "main": "locker.js",
